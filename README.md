@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I'm Francisco Lena, and I’m currently a web developer at 10%. After studying psychology, I decided to expand my knowledge by focusing on what has always been my passion: technology.<br><br> Additionally, I’ve worked with iOS and Android devices for years, which makes them a great complement to my current studies.<br><br>Would you like to code with me?👨🏼‍💻</p>
+<p align="left">I'm Francisco Lena, and I’m currently a web developer at 10%. After studying psychology, I decided to expand my knowledge by focusing on what has always been my passion: technology.<br><br> Additionally, I’ve worked with iOS and Android devices for years, which makes them a great complement to my current studies.<br><br>Would you like to code with me?👨🏼‍💻</p>
 
 ###
 
