@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">I'm Francisco Lena, and I’m currently a web developer at 10%. After studying psychology, I decided to expand my knowledge by focusing on what has always been my passion: technology.<br><br> Additionally, I’ve worked with iOS and Android devices for years, which makes them a great complement to my current studies.<br><br>Would you like to code with me?👨🏼‍💻</p>
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhqcDRwYjZzeG1zMzE5b3V5aG1qb280cTM4bGNtMmpxZDBocjJrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif"  />
+
+###
+
+<p align="left">Hi! I'm Francisco Lena, and I’m currently a web developer at 10%. After studying psychology, I decided to expand my knowledge by focusing on what has always been my passion: technology.<br><br> Additionally, I’ve worked with iOS and Android devices for years, which makes them a great complement to my current studies.<br><br>Would you like to code with me?👨🏼‍💻</p>
 
 ###
 
 <h2 align="left">What about me?</h2>
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhqcDRwYjZzeG1zMzE5b3V5aG1qb280cTM4bGNtMmpxZDBocjJrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif"  />
 
 ###
 
