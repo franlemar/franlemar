@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhqcDRwYjZzeG1zMzE5b3V5aG1qb280cTM4bGNtMmpxZDBocjJrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif"  />
+<img align="left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhqcDRwYjZzeG1zMzE5b3V5aG1qb280cTM4bGNtMmpxZDBocjJrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif"  />
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I hold a degree in Psychology because studying the human mind and behavior is amazing.<br><br>My passion has always been technology, and I’m discovering new horizons through learning web development.</p>
+<p align="left">I hold a degree in Psychology 🧠 because studying the human mind and behavior is amazing.<br><br>My passion has always been technology, and I’m discovering new horizons through learning web development.</p>
 
 ###
 
@@ -39,7 +39,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
