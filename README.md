@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Hi! I'm Francisco Lena, and I’m currently a web developer at 10%.<br><br> After studying psychology, I decided to expand my knowledge by focusing on what<br>has always been my passion: technology.<br><br> Additionally, I’ve worked with iOS and Android devices for years, which makes them a great<br> complement to my current studies.<br><br>Would you like to code with me?👨🏼‍💻</p>
+<p align="left">Hi! I'm Francisco Lena, and I’m currently a web developer at 10%.<br><br> After studying psychology, I decided to expand my knowledge by focusing on what has always been<br>my passion: technology.<br><br> Additionally, I’ve worked with iOS and Android devices for years, which makes them a great complement <br>to my current studies.<br><br>Would you like to code with me?👨🏼‍💻</p>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I hold a degree in Psychology 🧠 because studying the human mind and behavior is amazing.<br><br>      My passion has always been technology, and I’m discovering new horizons through learning web development.</p>
+<p align="left">I hold a degree in Psychology 🧠 because studying the human mind      and behavior is amazing.<br><br>My passion has always been technology, and I’m discovering new horizons through learning web development.</p>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">I'm using...</h2>
+<h2 align="left">At this moment, I'm using...</h2>
 
 ###
 
