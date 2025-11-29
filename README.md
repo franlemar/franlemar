@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I hold a degree in Psychology 🧠 because studying the human mind      and behavior is amazing.<br><br>My passion has always been technology, and I’m discovering new horizons through learning web development.</p>
+<p align="left"> &nbsp &nbsp I hold a degree in Psychology 🧠 because studying the human mind and behavior is amazing.<br><br> &nbsp &nbsp My passion has always been technology, and I’m discovering new horizons through learning web development.</p>
 
 ###
 
@@ -42,11 +42,12 @@
 
 ###
 
-<p align="left"></p>
+<p align="center"></p>
 
 ###
 
-<p align="left"></p>
+<p align="center"></p>
+<br>
 
 ###
 
